@@ -112,6 +112,7 @@ a{
     flex-basis: 45%;
     background: var(--White);
     padding: 40px;
+    border-radius: 0 10px 10px 0;
 }
 
 .texts h3{
@@ -184,6 +185,7 @@ a{
 @media screen and (max-width: 375px){
     .texts{
         padding: 15px;
+        border-radius: 0 0 10px 10px;
     }
 
     .texts h3{
@@ -194,11 +196,10 @@ a{
 @media screen and (max-width: 425px){
     .texts{
         padding: 15px;
+        border-radius: 0 0 10px 10px;
     }
 
     .texts h3{
         margin-bottom: 5px;
-    }
-}) {
-    
+    }   
 }
