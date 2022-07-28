@@ -29,14 +29,14 @@ Users should be able to:
 
 ### Screenshot
 ```html
-<img src="/product-preview-card-component-main/Screenshots/desktopView.png" alt="">
-<img src="/product-preview-card-component-main/Screenshots/mobileView.png" alt="">
+<img src="./Screenshots/desktopView.png" alt="">
+<img src="./Screenshots/mobileView.png" alt="">
 ```
 
 ### Links
 
 - Solution URL: (https://github.com/Bidex-03/Product-preview-card-component)
-- Live Site URL: (https://lucky-tiramisu-182c23.netlify.app)
+- Live Site URL: (https://shiny-clafoutis-f616da.netlify.app)
 
 ## My process
 
